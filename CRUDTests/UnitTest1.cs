@@ -6,8 +6,8 @@ namespace CRUDTests
         public void Test1()
         {
             MyMath mm = new MyMath();
-            int input1 = 10, input2 = 20;
-            int expected = 30;
+            int input1 = 1, input2 = 20;
+            int expected = 21;
 
             int actual = mm.Add(input1, input2);
 
