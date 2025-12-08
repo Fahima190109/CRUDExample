@@ -7,7 +7,7 @@ using Entities;
 namespace ServiceContracts.DTO
 {
     /// <summary>
-    /// aDD NEW country
+    /// Dto class aDD NEW country
     /// </summary>
     public  class CountryAddRequest
     {
